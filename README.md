@@ -1,6 +1,8 @@
 # gender-classification
-Use celeba dataset
 
+Use CelebA dataset
+
+</br>
 # Results 
 
 ```
