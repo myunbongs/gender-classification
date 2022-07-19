@@ -1,5 +1,5 @@
 # gender-classification
-CGVMG Lab Assignment #1 
+Use celeba dataset
 
 # Results 
 
